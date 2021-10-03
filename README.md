@@ -1,5 +1,5 @@
 # Projects
-Archives for my personnal and academical projects
+Non exaustive archives for my personnal and academical projects
 
 ## Python projects :
 
