@@ -3,23 +3,23 @@ Non exaustive archives for my personnal and academical projects
 
 ## Python projects :
 
-### TIPE
+### TIPE (Sept 2019 to Feb 2020)
 Acadamical project which aim was to simulate satellites constellations and find whether they was sufficiant to locate every point on earth.
 
-### Bot_LoupG
-Discord bot available on my server to play a Werewolf with my friends (Fall 2020)
+### Bot_LoupG (Fall 2020)
+Discord bot available on my server to play a Werewolf with my friends 
 
-### Démineur
-simple copy of the famous Minesweeper game (Sept 2019)
+### Démineur (Sept 2019)
+simple copy of the famous Minesweeper game 
 
-### Collatz/Julia/Mandelbrot fractales
-Fractal generators following several formulas and pictures made with it (June 2020)
+### Collatz/Julia/Mandelbrot fractales (June 2020)
+Fractal generators following several formulas and pictures made with it 
 
-### Mosaique
-Decomposition of a picture with several others (Nov 2020)
+### Mosaique (Nov 2020)
+Decomposition of a picture with several others 
 
-### Snake
-simple copy of the famous Snake game (Nov 2020)
+### Snake (Nov 2020)
+simple copy of the famous Snake game 
 
 ### Others
 Several other smaller projects such as
@@ -29,3 +29,15 @@ Several other smaller projects such as
 - Erathostène : uses the Sieve of Eratosthenes to compute prime numbers (feb 2020)
 - Puissance_4 : simple copy of Power 4 (nov 2020)
 - Polynomes : a module to deal with polynomials (dec 2020)
+
+
+## C Projects
+
+### Bataille_navale (June 2021)
+simple copy of the famous Battleship game to play on one laptop
+
+### Jeu_vie (July 2021)
+Coding Conway's game of life 
+
+### JPEG (May 2021)
+Academic project where we were asked to transform .jpg images to .ppm images
