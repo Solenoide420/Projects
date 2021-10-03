@@ -7,10 +7,8 @@ from random import choice, shuffle
 import discord
 from discord.ext import commands
 
-##from roles import *
 
-
-TOKEN = 'NzY1MjQxMTcwNTAxOTU5Njgw.X4R8YA.FT6fPztuIWWJIUn3fB7NwNB0oD8'
+TOKEN = 'token'
 
 CLIENT = discord.Client()
 CLE = '!'
