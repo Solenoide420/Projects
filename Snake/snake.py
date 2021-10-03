@@ -15,10 +15,7 @@ except:
     print("Utilisation:", sys.argv[0], "\nArgument :\n\t- la taille du quadrillage")
     sys.exit(1)
 
-try:
-    manger = sys.argv[2]
-except:
-    manger = "pomme.png"
+manger = "pomme.png"
 
 ## Initialisations
 screen = pygame.display.set_mode((TAILLE*20, TAILLE*20))
